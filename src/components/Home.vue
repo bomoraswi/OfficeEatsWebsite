@@ -64,13 +64,13 @@
           class="mt-4 mb-5"
           :style="{ fontSize: $vuetify.breakpoint.smAndDown ? '20px' : '30px' }"
         >
-          SamoEats lets you enjoy your favorite meals without the wait!
+          SaMoEats lets you enjoy your favorite meals without the wait!
         </h1>
         <p clas="mt-16">
-          With SamoEats, you can order your food and collect it at your
+          With SaMoEats, you can order your food and collect it at your
           convenience — no more waiting in line. Whether you're on the go or
           just looking to save time, we've made the process quick, easy, and
-          hassle-free. Experience the future of food collection with SamoEats
+          hassle-free. Experience the future of food collection with SaMoEats
           today!
         </p>
 
@@ -112,7 +112,7 @@
         </div>
 
         <div>
-          <p>&copy; 2024 SamoEats. All rights reserved.</p>
+          <p>&copy; 2024 SaMoEats. All rights reserved.</p>
         </div>
       </v-container>
     </v-footer>
